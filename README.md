@@ -30,7 +30,7 @@ Power Query, used for data cleaning and shaping prior to modeling
 
 ### 1. Product and Category Profitability
 
-![Product and Category Profitability]https://github.com/sebmungai/Northwind-Traders-Analysis/blob/main/IMAGES/PRODUCT%20AND%20CATEGORY%20PROFITABILITY.png
+![Product and Category Profitability](https://github.com/sebmungai/Northwind-Traders-Analysis/blob/main/IMAGES/PRODUCT%20AND%20CATEGORY%20PROFITABILITY.png)
 This page drills into category and product level profitability.
 
 Key metrics (KPI cards):
@@ -47,7 +47,7 @@ A summary table breaking down each category by Total Revenue, Total Quantity Sol
 
 ### 2. Sales Performance Overview
 
-![Sales Performance Overview]https://github.com/sebmungai/Northwind-Traders-Analysis/blob/main/IMAGES/SALES%20PERFORMANCE%20OVERVIEW.png
+![Sales Performance Overview](https://github.com/sebmungai/Northwind-Traders-Analysis/blob/main/IMAGES/SALES%20PERFORMANCE%20OVERVIEW.png)
 This page tracks overall business performance across time.
 
 Key metrics (KPI cards):
